@@ -1,0 +1,6 @@
+--A Naive Scala implementation of 'Conways Game Of Life'
+
+-Things to fix
+1) Extract case statement clauses so that they are independently testable
+2) Remove nested for loops (surely there is a higher order function I can use)
+3) Find nicer way to construct array. Looks to much like mutation at present
